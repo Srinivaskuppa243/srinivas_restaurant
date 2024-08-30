@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home | Srinivas Restaurant</title>
+<link rel="stylesheet" href="css1/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+    <header>
+<nav>
+<div class="logo"><h1 class="">Srinivas Restaurant</h1></div>
+<div class="menu">
+    <a href="file:///Users/kphaniramamohan/Desktop/html/RESTAURANT%201.HTML">Home</a>
+    <a href="file:///Users/kphaniramamohan/Desktop/html/menu1.html">Menu</a>
+    <a href="file:///Users/kphaniramamohan/Desktop/html/Private%20events.html">Private events</a>
+    <a href="file:///Users/kphaniramamohan/Desktop/html/reservations.html">Reservations</a>
+    <a href="file:///Users/kphaniramamohan/Desktop/html/contact1.html">Contact</a>
+</div>
+</nav>
+<main>
+<section>
+    <h1 style="color: white;"><font size ="+7">Welcome to Srinivas restaurant</font></h1>
+    <h3 style="color: white;">Quality food in affordable rates</h3><br><br>
+    <p style="color: white;">Adress is Besides Excellency Gardens, 02-041, Medchal Road, N NCL Ln, Ruby Block, Satyam Enclave, Kompally, Secunderabad, Telangana 500014</p>
+</section>
+</main>
+</header>
+<section>
+<h2>Our favourite picks are their below</h2>
+<div class="container">
+    <div class="items">
+        <h4>Malai kofta</h4>
+        <img src="https://imgs.search.brave.com/Jejl74KRFmA-gafEK-q0HcdUJDgBv2ZtSj5sf8cVQ6E/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/d2hpc2thZmZhaXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE0LzA4L01hbGFp/LUtvZnRhLTEtMS5q/cGc" alt="malai koftha" height="200 px" width="250px">
+        <h4>Rate = 130Rs</h4>
+    </div>
+    <div class="items">
+        <h4>Mutter paneer</h4>
+        <img src="https://imgs.search.brave.com/9rRcHfBYNYcg1BvwZH7IvAzAvqosXZ2p9RlTCku4qWc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdGV3/c2hhcmUuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3JlY2lw/ZS9wcmltYXJ5X2lt/YWdlLzE5NS9zcXVh/cmVfN2FlM2Y5MmIt/MDg5Yi00OWIyLTg2/NjEtNDM3ZDY2Mzcw/ZDIyLmpwZw" alt="mutter paneer" height="200px">
+    <h4>Rate = 135Rs</h4>
+    </div>
+    <div class="items">
+        <h4>Pizza</h4>
+        <img src="https://imgs.search.brave.com/KdvBvPWcsdpT_U61_wnpk6Jc78WayMlZOOmQuKvuHto/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cmVhZGVyc2RpZ2Vz/dC5jYS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxMC8xMi9wZXBw/ZXJvbmktcGl6emEt/c2NhbGVkLmpwZw" alt="pizza" height="200px" width="250px">
+        <h4>Rate= 260Rs</h4>
+    </div>
+    <div class="items">
+        <h4>Cake</h4>
+        <img src="https://nationaltoday.com/wp-content/uploads/2020/01/chocolatecake-1.jpg" alt="chocolate cake" height="250">
+        <h4>Rate = 1500Rs(1 kg)</h4>
+    </div>
+    <div class="items">
+        <h4> Sandwich</h4>
+        <img src="https://recipes.timesofindia.com/thumb/83740315.cms?width=1200&height=900" alt="Sandwich" height="200">
+         <h4>Rate = 50Rs</h4>
+     </div>
+     <div class="items"> 
+         <h4>Chicken biryani</h4>
+         <img src="https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg" alt="Chicken biryani" height="200px">
+         <h4>Rate = 100Rs</h4>
+     </div>
+     <div class="items">
+         <h4>Fish rechado</h4>
+         <img src="https://mareenasrecipecollections.com/wp-content/uploads/2016/04/image.1024x1024-1-1.jpg" alt="Fish Racheodo" height="200px">
+         <h4>Rate = 100Rs</h4>
+     </div>
+     <div class="items">
+         <h4>Coffee</h4>
+         <img src="data:image/jpeg;base64,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" alt="coffee" height="200px">
+         <h4>Rate = 15Rs</h4>
+     </div>
+
+</div>
+</section>
+</body>
+</html>
